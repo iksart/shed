@@ -1,0 +1,1 @@
+export const BST_SUCCESS_COLOR = '#28a745'

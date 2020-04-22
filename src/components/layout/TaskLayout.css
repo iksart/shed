@@ -1,0 +1,124 @@
+.row-seleted {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.row-seleted_important {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+.SplitPane{
+    background-color: #6796b2;
+}
+
+.select-width-all{
+    width: 100%;
+    margin-left: 0.1rem;
+}
+
+.dt-btn{
+    margin-right: -2px;    
+    cursor: pointer;
+}
+
+.dt-btn:hover{
+    background-color: #e6e6e6
+}
+
+/*reducted*/
+.table{
+    margin-bottom: 0rem;
+}
+
+.rw-widget-picker {    
+    height: 100%;
+}
+
+.card-header {
+    padding: 0.25rem 0.25rem;
+}
+
+.table th, .table td {
+    padding: 3px;
+}
+
+.grid-task {
+    height: 100%;    
+}
+
+.wrapper{
+    height: 100%;
+}
+
+/*delete*/
+.wrapper-task {
+    height: 50vh;
+    width: 100%;
+}
+
+/*delete*/
+.wrapper-task-comment {
+    height: 40vh;
+    width: 100%;
+}
+
+.cell-control {
+    text-align: center
+}
+
+.cell-wrap-text {
+    white-space: normal !important;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.bg-brown {
+    background-color: brown !important;
+}
+
+.btn-brown {
+    color: #fff;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+.btn-brown:hover {
+    color: #fff;
+    background-color: rgb(139, 37, 37);
+    border-color: rgb(117, 32, 32);
+}
+  
+.btn-brown:focus, .btn-brown.focus {
+    box-shadow: 0 0 0 0.2rem rgb(167, 50, 50, 0.5);
+}
+  
+.btn-brown.disabled, .btn-brown:disabled {
+    color: #fff;
+    background-color: brown;
+    border-color: brown;
+}
+  
+.btn-brown:not(:disabled):not(.disabled):active, .btn-brown:not(:disabled):not(.disabled).active,
+.show > .btn-brown.dropdown-toggle {
+    color: #fff;
+    background-color: rgb(117, 32, 32);
+    border-color: rgb(107, 29, 29);
+}
+  
+.btn-brown:not(:disabled):not(.disabled):active:focus, .btn-brown:not(:disabled):not(.disabled).active:focus,
+.show > .btn-brown.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgb(167, 50, 50, 0.5);
+}
+
+.line-height_tight-very{
+    line-height: 0.75em;
+}
+
+.line-height_tight{
+    line-height: 1.2em;
+}
+
+.line-height_tight-middle{
+    line-height: 1.3em;
+}
